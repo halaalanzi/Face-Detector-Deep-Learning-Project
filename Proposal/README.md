@@ -10,7 +10,7 @@ Deep learning is now more accessible than ever before for organizations of any s
 The **goal** of this project is to build a deep neural network model that uses image data to extract its features and then recognize it, regardless of lighting, expression, illumination, ageing, transformations (translate, rotate and scale image) and pose, which is a difficult task , This project can be used for Security cameras, Offices, University, ATM, Bank, in any locations with a security and to collect criminal's images automatically and notify the authorities
 
 ## Dataset Content
-We used a dataset of Facial Recognition Dataset collected from Pinterest using Kaggle website [here](https://www.kaggle.com/hereisburak/pins-face-recognition?select=105_classes_pins_dataset) .
+We used a dataset of Facial Detector Dataset collected from Pinterest using Kaggle website [here](https://www.kaggle.com/hereisburak/pins-face-recognition?select=105_classes_pins_dataset) .
 
 This image has been collected from Pinterest and cropped. There are 105 celebrities and 17534 faces.
 
