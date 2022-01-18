@@ -11,7 +11,7 @@ This project is done during SDAIA Academy bootcamp of Data Science and AI.
 - [Project Proposal](https://github.com/halaalanzi/Face-Detector-Deep-Learning-Project/tree/main/Proposal)
 - [Project MVP](https://github.com/halaalanzi/Face-Detector-Deep-Learning-Project/tree/main/MVP)
 - [Jupyter Notebooks](https://github.com/halaalanzi/Face-Detector-Deep-Learning-Project/tree/main/Jupyter%20Notebooks)
-- [Final Report]()
+- [Final Report](https://github.com/halaalanzi/Face-Detector-Deep-Learning-Project/tree/main/Report)
 - [Slides Presentation](https://github.com/halaalanzi/Face-Detector-Deep-Learning-Project/tree/main/Presentation)
 
 ### Contact Me
