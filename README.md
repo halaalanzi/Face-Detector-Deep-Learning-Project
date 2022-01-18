@@ -13,7 +13,6 @@ This project is done during SDAIA Academy bootcamp of Data Science and AI.
 - [Jupyter Notebooks]()
 - [Final Report]()
 - [Slides Presentation]()
-- [Dataset]()
 
 ### Contact Me
 For any questions please contact me <br/>
