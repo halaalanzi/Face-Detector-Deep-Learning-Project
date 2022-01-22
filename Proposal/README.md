@@ -1,4 +1,4 @@
-# Face Detector
+# Face Detector Using Deep Learning .
 
 <p align="center" width="100%">
 <img src="https://mxface.ai/Assets/images/Face_Detection/Face-Detection.png" />
