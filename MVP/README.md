@@ -8,4 +8,4 @@ To start with, the images have been preprocessed by resizing the images from 102
 
 The above figure shows the accuracy for both training and validation for each epoch. The blue line represents the training accuracy and the orange line represents the validation accuracy. From the figure it is clear that as the number of epochs increase the training accuracy increase and the gap between training and validation accuracy increases as will.
 
-The next steps, more neural network models will be tested such as convolutional neural network (CNN), convolutional neural network with a Transfer Learning Models will be examined as will.
+The next steps, more neural network models will be tested such as convolutional neural network (CNN), convolutional neural network with a Transfer Learning Models was examined .
